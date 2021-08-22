@@ -129,4 +129,4 @@ line=(
 
 
 # 渲染到html页面
-line.render('./1.html')
+line.render('./index.html')
